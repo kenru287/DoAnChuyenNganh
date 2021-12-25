@@ -111,6 +111,7 @@ Library: lib_burst_generated
 --compilation-defines=PUN_2_0_OR_NEWER
 --compilation-defines=PUN_2_OR_NEWER
 --compilation-defines=PUN_2_19_OR_NEWER
+--compilation-defines=CROSS_PLATFORM_INPUT
 --compilation-defines=PACKAGE_PHYSICS
 --compilation-defines=PACKAGE_PHYSICS2D
 --compilation-defines=PACKAGE_TILEMAP
@@ -124,15 +125,14 @@ Library: lib_burst_generated
 --output=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\PhotonUnityNetworking.Utilities.dll
---root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\Unity.Mathematics.dll
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\Unity.Timeline.dll
---root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\PhotonUnityNetworking.Demos.dll
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\PhotonUnityNetworking.dll
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\Unity.TextMeshPro.dll
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\Unity.Burst.dll
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\Unity.2D.Animation.Runtime.dll
+--root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\Unity.2D.IK.Runtime.dll
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\PhotonWebSocket.dll
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\PhotonRealtime.dll
@@ -141,6 +141,9 @@ Library: lib_burst_generated
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\PhotonChat.dll
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\Unity.2D.PixelPerfect.dll
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+--root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\PhotonVoice.API.dll
+--root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\PhotonVoice.dll
+--root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\PhotonVoice.PUN.dll
 --assembly-folder=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\
 --pdb-search-paths=Temp/ManagedSymbols/
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
@@ -259,6 +262,7 @@ Library: lib_burst_generated
 --compilation-defines=PUN_2_0_OR_NEWER
 --compilation-defines=PUN_2_OR_NEWER
 --compilation-defines=PUN_2_19_OR_NEWER
+--compilation-defines=CROSS_PLATFORM_INPUT
 --compilation-defines=PACKAGE_PHYSICS
 --compilation-defines=PACKAGE_PHYSICS2D
 --compilation-defines=PACKAGE_TILEMAP
@@ -272,15 +276,14 @@ Library: lib_burst_generated
 --output=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\PhotonUnityNetworking.Utilities.dll
---root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\Unity.Mathematics.dll
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\Unity.Timeline.dll
---root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\PhotonUnityNetworking.Demos.dll
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\PhotonUnityNetworking.dll
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\Unity.TextMeshPro.dll
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\Unity.Burst.dll
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\Unity.2D.Animation.Runtime.dll
+--root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\Unity.2D.IK.Runtime.dll
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\PhotonWebSocket.dll
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\PhotonRealtime.dll
@@ -289,6 +292,9 @@ Library: lib_burst_generated
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\PhotonChat.dll
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\Unity.2D.PixelPerfect.dll
 --root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+--root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\PhotonVoice.API.dll
+--root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\PhotonVoice.dll
+--root-assembly=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\PhotonVoice.PUN.dll
 --assembly-folder=D:\Đồ án chuyên ngành\GameChien\Temp\StagingArea\Data\Managed\
 --pdb-search-paths=Temp/ManagedSymbols/
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
